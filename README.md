@@ -28,15 +28,19 @@
 <!-- About Section -->
  
 <div align="center">
- # About me
 
-# Bug Wrangler and Syntax Sorcerer at Your Service! 🐞💻
+# About me
+
+Bug Wrangler and Syntax Sorcerer at Your Service! 🐞💻
 
 When I'm not convincing the computer that "x = 42" is the answer to everything, I'm diving into algorithms and turning coffee into code. 
 
 With a background in visual storytelling, I've journeyed from crafting pixels to scripting lines, infusing creativity into every function and loop.
 
 Ready to tackle challenges and craft solutions that even servers chuckle at with joy!
+
+<br/>
+<br/>
 
 </div>
 ## Use To Code
