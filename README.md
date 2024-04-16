@@ -26,20 +26,19 @@
 <br />
 
 <!-- About Section -->
+ 
+<div align="center">
  # About me
- 
-<p>
-  
- ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
- ❤️ &emsp; Love to writing code and learning new features<br/><br/>
- 📧 &emsp; Reach me anytime: ruimiguelpintocosta@gmail.com<br/><br/>
- 
-</p>
 
-<br/>
-<br/>
-<br/>
+# Bug Wrangler and Syntax Sorcerer at Your Service! 🐞💻
 
+When I'm not convincing the computer that "x = 42" is the answer to everything, I'm diving into algorithms and turning coffee into code. 
+
+With a background in visual storytelling, I've journeyed from crafting pixels to scripting lines, infusing creativity into every function and loop.
+
+Ready to tackle challenges and craft solutions that even servers chuckle at with joy!
+
+</div>
 ## Use To Code
 
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
