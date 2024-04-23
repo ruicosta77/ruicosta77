@@ -65,7 +65,7 @@ Ready to tackle challenges and craft solutions that even servers chuckle at with
 
 ## Top Open Source -
 [![Trivia-SPA](https://github-readme-stats.vercel.app/api/pin/?username=ruicosta77&repo=Trivia-SPA&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/ruicosta77/Trivia-SPA)
-[![BugEvaders](https://github-readme-stats.vercel.app/api/pin/?username=ruicosta77&repo=BugEvaders&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/ruicosta77/BugEvaders)
+[![NightOut Navigator](https://github-readme-stats.vercel.app/api/pin/?username=ruicosta77&repo=NightOut-Navigator&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/ruicosta77/NightOut-Navigator)
 
 
 <p align="left">
