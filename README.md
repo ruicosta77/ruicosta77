@@ -51,6 +51,7 @@ Ready to tackle challenges and craft solutions that even servers chuckle at with
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&labelColor=black&logo=java&logoColor=007396)
+![OutSystems](https://img.shields.io/badge/OutSystems-0077B5?style=for-the-badge&labelColor=black&logo=outsystems&logoColor=0077B5)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&labelColor=black&logo=apache-maven&logoColor=C71A36)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&labelColor=black&logo=spring&logoColor=6DB33F)
 ![REST API](https://img.shields.io/badge/REST%20API-FF5733?style=for-the-badge&labelColor=black)
