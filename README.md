@@ -19,9 +19,6 @@
  <a href="https://www.linkedin.com/in/ruicostadev/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="ruicostalinkedin"/>
  </a>
- <a href="https://www.instagram.com/minas77_/" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="alsiam" />
- </a> 
 </p>
 <br />
 
